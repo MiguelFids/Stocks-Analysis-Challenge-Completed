@@ -14,7 +14,7 @@ The output of the data for 2018 should not change, as refactoring should not cha
 
 Interestingly, we experience longer processing times after we had refactored the code.
 
-![Before the refactoring](resources/VBA_Before_Refactoring.png"VBA Before Refactoring")
+![Before the refactoring](resources/VBA_Before_Refactoring.png "VBA Before Refactoring")
 
 ![After the refactoring](resources/VBA_Challenge_2018.png "VBA After Refactoring")
 
