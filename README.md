@@ -16,7 +16,7 @@ Interestingly, we experience longer processing times after we had refactored the
 
 ![Before the refactoring](resources/VBA_Before_Refactoring.png"VBA Before Refactoring")
 
-![After the refactoring](resources/VBA_Challenge_2018.png)
+![After the refactoring](resources/VBA_Challenge_2018.png "VBA After Refactoring")
 
 The refactored code uses arrays to store information, thus requires more memory to run the code. Every time the For Loop runs on Line 61 of the VBA Challenge code, every time we parse a value into the code we always call upon the array index to find our value.
 
